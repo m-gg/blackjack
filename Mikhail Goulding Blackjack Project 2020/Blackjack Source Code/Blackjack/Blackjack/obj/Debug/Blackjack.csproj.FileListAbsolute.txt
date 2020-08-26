@@ -1,0 +1,86 @@
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.BlackJackForm.resources
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\HP9GD85W8\source\repos\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\Kami\Desktop\Blackjack Project (30-01-2020)\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\Kami\Desktop\Blackjack Project (30-01-2020)\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\Kami\Desktop\Blackjack Project (30-01-2020)\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Kami\Desktop\Blackjack Project (30-01-2020)\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\Kami\Desktop\Blackjack Project (30-01-2020)\Blackjack\Blackjack\obj\Debug\Blackjack.BlackJackForm.resources
+C:\Users\Kami\Desktop\Blackjack Project (30-01-2020)\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\Kami\Desktop\Blackjack Project (30-01-2020)\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\Kami\Desktop\Blackjack Project (30-01-2020)\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\Kami\Desktop\Blackjack Project (30-01-2020)\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.BlackJackForm.resources
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\HP9GD85W8\Desktop\Blackjack Project (30-01-2020) From House - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+E:\2020 BlackJack (30-01 From CTI) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+E:\2020 BlackJack (30-01 From CTI) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+E:\2020 BlackJack (30-01 From CTI) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+E:\2020 BlackJack (30-01 From CTI) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+E:\2020 BlackJack (30-01 From CTI) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.BlackJackForm.resources
+E:\2020 BlackJack (30-01 From CTI) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+E:\2020 BlackJack (30-01 From CTI) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+E:\2020 BlackJack (30-01 From CTI) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+E:\2020 BlackJack (30-01 From CTI) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.BlackJackForm.resources
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\Kami\Desktop\2020 BlackJack (01-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.Scoreboard.resources
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.BlackJackForm.resources
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.Scoreboard.resources
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+E:\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.BlackJackForm.resources
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.How_To_Play.resources
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.Scoreboard.resources
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\HP9GD85W8\Desktop\2020 BlackJack (02-02) - Newest\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Debug\Blackjack.exe.manifest
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Debug\Blackjack.application
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.BlackJackForm.resources
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.How_To_Play.resources
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.Scoreboard.resources
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.exe.manifest
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.application
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Debug\Blackjack.pdb

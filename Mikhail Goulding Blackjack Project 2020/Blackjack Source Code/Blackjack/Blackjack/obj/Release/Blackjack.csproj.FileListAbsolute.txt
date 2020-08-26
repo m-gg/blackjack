@@ -1,0 +1,16 @@
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Release\Blackjack.exe.config
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Release\Blackjack.exe.manifest
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Release\Blackjack.application
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Release\Blackjack.exe
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\bin\Release\Blackjack.pdb
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.csprojAssemblyReference.cache
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.BlackJackForm.resources
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.How_To_Play.resources
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.Properties.Resources.resources
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.Scoreboard.resources
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.csproj.GenerateResource.cache
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.exe.manifest
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.application
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.exe
+C:\Users\HP9GD85W8\Desktop\Mikhal Goulding Blacjack Project 2020\Source Code\Blackjack\Blackjack\obj\Release\Blackjack.pdb
