@@ -6,3 +6,6 @@ The download size is 95 MB. You can unzip it using your favourite zipping tool.
 
 Follow the instruction inside the documentation once you have downloaded and unzipped the project.<br/>
 <a href="/Mikhail%20Goulding%20Blackjack%20Project%202020/Documentation/BlackJack%20Documentation.pdf">Click here to view the documentation</a> (It might take a moment to load, depending on your internet speed.)
+
+Game preview:
+<img src = "/Mikhail Goulding Blackjack Project 2020/Blackjack Game/HTP/2.PNG" />
